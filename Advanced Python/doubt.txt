@@ -1,0 +1,6 @@
+if __name__ = '__main__' in python
+function sharing
+enumerate syntax
+installing and importing modules from reqiurement file in env
+question_1 of practice set
+flask ka usage
